@@ -10,7 +10,7 @@ image:
 I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>.
 
 <br />
-<strong>I am close to finishing my doctoral degree at UCLA. I am proactively looking for jobs that involve research on state-of-the-art computational imaging and display systems, as well as developing innovative algorithms for vision-related problems using machine learning methods.</strong>
+<strong>I am close to finishing my doctoral degree at UCLA. I am actively seeking job opportunities focused on researching advanced computational imaging and display technologies, as well as developing novel algorithms for computer vision problems using machine learning techniques.</strong>
 
 <br />
 My research interests are in the areas of computational imaging, computer vision, and machine learning.
