@@ -7,6 +7,8 @@ image:
   feature: 
 ---
 
+ <p align="justify">
+   
 I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>.
 
 <br />
@@ -22,4 +24,6 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Assoc. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning algorithms and representation learning under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Asst. Prof. Aykut Koc</a>.
 
 <br />
-My resume can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
+My CV can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
+
+    </p>
