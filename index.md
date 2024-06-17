@@ -8,16 +8,13 @@ image:
 ---
 
  <p align="justify">
-   
-I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>.
+
+&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA. I am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;
 
 <br />
 <br />
-&#x1F6A8;<strong>I am close to finishing my doctoral degree at UCLA. I am currently seeking job opportunities focused on computational imaging and display technologies, as well as computer vision problems using machine learning techniques.</strong>&#x1F6A8;
 
-<br />
-<br />
-My research interests are in the areas of computational imaging, computer vision, and machine learning.
+I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>. My current research focuses on computational imaging and displays using deep learning.
 
 <br />
 <br />
@@ -25,10 +22,10 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 
 <br />
 <br />
-During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Assoc. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning algorithms and representation learning under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Asst. Prof. Aykut Koc</a>.
+During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Assoc. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning methods and representation learning under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Asst. Prof. Aykut Koc</a>.
 
 <br />
 <br />
-My CV can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
+<strong>My CV</strong> can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
 
 </p>
