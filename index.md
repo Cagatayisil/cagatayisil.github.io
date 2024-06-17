@@ -13,7 +13,7 @@ I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof
 
 <br />
 <br />
-&#10071;&#9203; <strong>I am close to finishing my doctoral degree at UCLA. I am currently seeking job opportunities focused on computational imaging and display technologies, as well as computer vision problems using machine learning techniques.</strong>
+&#9193; <strong>I am close to finishing my doctoral degree at UCLA. I am currently seeking job opportunities focused on computational imaging and display technologies, as well as computer vision problems using machine learning techniques.</strong> &#9194;
 
 <br />
 <br />
