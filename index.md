@@ -26,4 +26,4 @@ During my undergraduate research and M.S. studies with <a href="https://blog.met
 <br />
 My CV can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
 
-    </p>
+</p>
