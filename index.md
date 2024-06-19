@@ -9,7 +9,7 @@ image:
 
  <p align="justify">
 
-&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA. I am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;
+&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA, I and am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;
 
 <br />
 <br />
