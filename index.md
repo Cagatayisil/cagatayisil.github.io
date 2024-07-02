@@ -24,7 +24,6 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
  
 <br />
 <br />
-<strong>My CV</strong> can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
 
 </p>
 
