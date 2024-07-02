@@ -29,12 +29,11 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 </p>
 
 <p style="text-align:center">
-<a href="mailto:jonbarron@gmail.com">Email</a> &nbsp;/&nbsp;
-<a href="data/JonBarron-CV.pdf">CV</a> &nbsp;/&nbsp;
-<a href="data/JonBarron-bio.txt">Bio</a> &nbsp;/&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Scholar</a> &nbsp;/&nbsp;
-<a href="https://twitter.com/jon_barron">Twitter</a> &nbsp;/&nbsp;
-<a href="https://github.com/jonbarron/">Github</a>
+<a href="https://cagatayisil.github.io/CVcisil.pdf"><strong>CV</strong></a> &nbsp;/&nbsp;
+<a href="mailto:cagatayisil@ucla.edu"><strong>Email</strong></a> &nbsp;/&nbsp;
+<a href="https://www.linkedin.com/in/cagatayisil/"><strong>Linkedin</strong></a> &nbsp;/&nbsp;
+<a href="http://twitter.com/Cgtysl"><strong>Twitter</strong></a> &nbsp;/&nbsp;
+<a href="http://github.com/Cagatayisil"><strong>Github</strong></a>
 </p>
 
 
