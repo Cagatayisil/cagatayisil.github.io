@@ -27,3 +27,14 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 <strong>My CV</strong> can be found <a href="https://cagatayisil.github.io/CVcisil.pdf" target="_blank">here</a>.
 
 </p>
+
+<p style="text-align:center">
+<a href="mailto:jonbarron@gmail.com">Email</a> &nbsp;/&nbsp;
+<a href="data/JonBarron-CV.pdf">CV</a> &nbsp;/&nbsp;
+<a href="data/JonBarron-bio.txt">Bio</a> &nbsp;/&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Scholar</a> &nbsp;/&nbsp;
+<a href="https://twitter.com/jon_barron">Twitter</a> &nbsp;/&nbsp;
+<a href="https://github.com/jonbarron/">Github</a>
+</p>
+
+
