@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About
+title: Bio
 description: "Last updated on November 9, 2019"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
@@ -8,11 +8,6 @@ image:
 ---
 
  <p align="justify">
-
-&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA, and I am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;
-
-<br />
-<br />
 
 I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>. My current research focuses on computational imaging and displays using deep learning.
 
@@ -22,6 +17,13 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 
 <!-- During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Assoc. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning methods and representation learning under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Asst. Prof. Aykut Koc</a>. --> 
  
+<br />
+<br />
+
+<!--&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA, and I am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;-->
+
+<strong>I am close to completing my doctoral degree at UCLA, and currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>
+
 <br />
 <br />
 
