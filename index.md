@@ -22,7 +22,7 @@ I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">
 
 <!--&#x1F6A8;<strong>I am close to completing my doctoral degree at UCLA, and I am currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>&#x1F6A8;-->
 
-<strong>I am close to completing my doctoral degree at UCLA, and currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong>
+<!-- <strong>I am close to completing my doctoral degree at UCLA, and currently seeking job opportunities focused on computational imaging and display technologies and addressing computer vision problems using machine learning techniques.</strong> --> 
 
 <br />
 <br />
